@@ -37,7 +37,7 @@ const Demo: React.FC = () => {
 
 
     return (
-        <section id='demo' className="px-5 mt-35">
+        <section id='demo' className="px-5 mt-35 scroll-mt-30">
             <div className='bg-white/10 p-5 md:p-15 rounded-2xl'>
                 <div className="grid grid-cols-1 md:grid-cols-2 ">
                     <div>
